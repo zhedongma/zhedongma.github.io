@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+[click here](https://www.baidu.com)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
