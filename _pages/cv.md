@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering and Automation, Zhejiang University, 2019
+* B.S. in Electrical Engineering and Automation, Zhejiang University, 2019 (Honors) 
 
 
 Work experience
