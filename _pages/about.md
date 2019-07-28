@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi,All. I am currently a first-year PhD student in Electrical& Computer Engineering at University of Florida.
+Hi,All. I am currently a first-year PhD student in Electrical& Computer Engineering at University of Florida.My Advisor is Prof.Shuo Wang.
 
 Resaerch Interests
 ======
