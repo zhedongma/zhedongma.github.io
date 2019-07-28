@@ -10,52 +10,35 @@ redirect_from:
 {% include base_path %}
 
 
-[click here](https://www.baidu.com)
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering and Automation, Zhejiang University, 2019
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2019-Present: Research Assistant
+  * University of Florida
+  * Duties included: Power Electronics
+  * Supervisor: Prof.Shuo Wang
   
+* July 2018- January 2019: Research Intern
+  * University of Florida
+  * Duties included: Explore the new magnetic core loss measurement methods.
+  * Supervisor: Prof.Shuo Wang
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Ansys
+* Simulink
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+*Zhedong Ma, Juntao Yao, Yiming Li and Shuo Wang: Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations. IEEE Energy Conversion Congress and Exposition 2019.
+*Juntao Yao, Mohammed El-Sharkh, Yiming Li, Zhedong Ma, Shuo Wang and Zheng Luo：Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications. IEEE Energy Conversion Congress and Exposition 2019.
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* monitor in class 1503 at Zhejiang University
