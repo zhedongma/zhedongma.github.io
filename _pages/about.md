@@ -13,7 +13,9 @@ Hi,All. I am currently a first-year PhD student in Electrical& Computer Engineer
 Resaerch Interests
 ======
 Power electronics
+
 Magnetic components
+
 Electromagnetic interference
 
 Honors/Awards
