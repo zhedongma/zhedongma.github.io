@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [Download my CV here](zhedongma.github.io/files/CV(ZheDong MA).pdf)
+
 Education
 ======
 * B.S. in Electrical Engineering and Automation, Zhejiang University, 2019 (Honors) 
