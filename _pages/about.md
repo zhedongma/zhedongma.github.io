@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi,All. I am currently a first-year PhD student in Electrical& Computer Engineering at University of Florida.My Advisor is [Prof.Shuo Wang](https://news.ece.ufl.edu/2018/12/05/shuo-wang-elevated-to-ieee-fellow/)
+Hi,All. I am currently a first-year PhD student in Electrical&Computer Engineering at University of Florida.My Advisor is [Prof.Shuo Wang](https://news.ece.ufl.edu/2018/12/05/shuo-wang-elevated-to-ieee-fellow/). I just obtained my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019. In my daily life, I enjoyed travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
+
+Publications
+======
+
+
 
 Resaerch Interests
 ======
@@ -20,7 +25,15 @@ Electromagnetic interference
 
 Honors/Awards
 ======
-Top-ten University students in Lantian Campus,Zhejiang University
+Awards of Outstanding Graduates of Zhejiang University. 2019
+
+Awards of Excellent Student, Zhejiang University. 2018
+
+Top-ten University students in Lantian Campus, Zhejiang University. 2017
+
+Awards of Outstanding Student Leader, Zhejiang University. 2017
+
+
 
 Please feel free to contact me via email:zhedongma@gmail.com or Wechat:MZDZJU
 
