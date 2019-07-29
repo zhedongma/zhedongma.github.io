@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](zhedongma.github.io/files/CV(ZheDong MA).pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
