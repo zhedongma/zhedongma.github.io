@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, All. I am currently a first-year PhD student in Electrical&Computer Engineering at University of Florida. My Advisor is [Prof.Shuo Wang](https://news.ece.ufl.edu/2018/12/05/shuo-wang-elevated-to-ieee-fellow/). I just obtained my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019. 
+Hello, Everybody! I am currently a first-year PhD student in Electrical&Computer Engineering at University of Florida. My Advisor is [Prof.Shuo Wang](https://news.ece.ufl.edu/2018/12/05/shuo-wang-elevated-to-ieee-fellow/). I just obtained my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019. 
 
 In my daily life, I enjoyed travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
@@ -19,7 +19,7 @@ Publications
 * Juntao Yao, Mohammed El-Sharkh, Yiming Li, Zhedong Ma, Shuo Wang and Zheng Luo：Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications. IEEE Energy Conversion Congress and Exposition 2019.
 
 
-Resaerch Interests
+Research Interests
 ======
 Power electronics
 
