@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhedong Ma's Homepage"
 title_separator          : "-"
-name                     : &name "Zhedong Ma（马浙栋）"
+name                     : &name "Zhedong Ma"
 description              : &description "personal description"
 url                      : https://zhedongma.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
