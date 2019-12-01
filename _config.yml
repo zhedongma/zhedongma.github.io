@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhedong Ma's Homepage"
+title                    : "Zhedong Ma(马浙栋)'s Homepage"
 title_separator          : "-"
-name                     : &name "Zhedong Ma"
+name                     : &name "Zhedong Ma（马浙栋）"
 description              : &description "personal description"
 url                      : https://zhedongma.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+facebook: "https://www.facebook.com/profile.php?id=100024571883628"
   username               :
   app_id                 :
   publisher              :
