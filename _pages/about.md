@@ -12,7 +12,7 @@ Hello Everybody! I am currently a first-year PhD student in Electrical&Computer 
 
 In my daily life, I enjoyed travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
-Email:zhedongma@gmail.com.Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
+Email:zhedongma@gmail.com. Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
 
 
 Publications
