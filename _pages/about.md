@@ -10,9 +10,9 @@ redirect_from:
 
 Hello Everybody! I am currently a first-year PhD student in Electrical&Computer Engineering at University of Florida. My Advisor is [Prof.Shuo Wang](https://news.ece.ufl.edu/2018/12/05/shuo-wang-elevated-to-ieee-fellow/), you can see his google scholar [here](https://scholar.google.com/citations?user=zvZUp70AAAAJ&hl=zh-CN). I just obtained my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019. 
 
-In my daily life, I enjoyed travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
+In my daily life, I enjoy travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
-Email:zhedongma@gmail.com. Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
+Email:zhedongma@gmail.com or Wechat:MZDZJU. Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
 
 
 Publications
@@ -23,11 +23,7 @@ Publications
 
 Research Interests
 ======
-Power electronics
-
-Magnetic components
-
-Electromagnetic interference
+Power electronics,Magnetic components,Electromagnetic interference
 
 Honors/Awards
 ======
@@ -39,8 +35,5 @@ Top-ten University students in Lantian Campus, Zhejiang University. 2017
 
 Awards of Outstanding Student Leader, Zhejiang University. 2017
 
-
-
-Please feel free to contact me via email:zhedongma@gmail.com or Wechat:MZDZJU
 
 
