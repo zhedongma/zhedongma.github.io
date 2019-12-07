@@ -23,7 +23,7 @@ Publications
 
 Research Interests
 ======
-Power electronics,Magnetic components,Electromagnetic interference
+Power electronics, Magnetic components, Electromagnetic interference
 
 Honors/Awards
 ======
