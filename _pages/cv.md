@@ -13,27 +13,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering and Automation, Zhejiang University, 2019 (Honors) 
+* Ph.D. in Electrical&Computer Engineering, University of Florida, USA 2019-Present
+* B.E. in Electrical Engineering and Automation, Zhejiang University, P.R.China 2015-2019 (Honors) 
 
 
 Work experience
 ======
-* August 2019-Present: Research Assistant
-  * University of Florida
-  * Duties included: Power Electronics
-  * Supervisor: Prof.Shuo Wang
+* Dec.2019- Present: Research Assistant, University of Florida (Dr.Shuo Wang)
+  * Duties included: Perform research in power electronics, supported by Google.
   
-* July 2018- January 2019: Research Intern
-  * University of Florida
+* Aug.2019-Dec.2019: Research and Teaching Assistant, University of Florida (Dr.Shuo Wang)
+  * Duties included: Perform research and teaching in power electronics
+  
+* July 2018- January 2019: Research Intern, University of Florida (Dr.Shuo Wang)
   * Duties included: Explore the new magnetic core loss measurement methods.
-  * Supervisor: Prof.Shuo Wang
 
 
 Skills
 ======
-* Matlab
-* Ansys
-* Simulink
+* Matlab, PSpice, Ansys, Simulink
 
 Publications
 ======
@@ -43,3 +41,4 @@ Publications
 Service and leadership
 ======
 * monitor in class 1503 at Zhejiang University
+* Deputy Secretary of the Youth League General branch, Zhejiang University
