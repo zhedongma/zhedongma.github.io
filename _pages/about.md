@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello Everybody! I am currently a first-year PhD student in Electrical&Computer Engineering at University of Florida. My Advisor is [Prof.Shuo Wang](https://news.ece.ufl.edu/2018/12/05/shuo-wang-elevated-to-ieee-fellow/), you can see his google scholar [here](https://scholar.google.com/citations?user=zvZUp70AAAAJ&hl=zh-CN). I just obtained my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019. 
+Hello Everybody! I am currently a first-year PhD student in Electrical&Computer Engineering at University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html), you can see his google scholar [here](https://scholar.google.com/citations?user=zvZUp70AAAAJ&hl=zh-CN). I just obtained my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019. 
 
 In my daily life, I enjoy travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
