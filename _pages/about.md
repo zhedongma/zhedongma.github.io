@@ -17,9 +17,9 @@ Email: zhedongma@gmail.com or Wechat:MZDZJU. Find me on [Facebook](https://www.f
 
 Publications
 ======
-* Zhedong Ma, Juntao Yao, Yiming Li and Shuo Wang: Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations. IEEE Energy Conversion Congress and Exposition 2019.
+* Z. Ma, J. Yao, Y. Li and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 4125-4130.
 
-* Juntao Yao, Mohammed El-Sharkh, Yiming Li, Zhedong Ma, Shuo Wang and Zheng Luo：Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications. IEEE Energy Conversion Congress and Exposition 2019.
+* J. Yao, M. El-Sharkh, Y. Li, Z. Ma, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 6957-6964.
 
 Research Interests
 ======
