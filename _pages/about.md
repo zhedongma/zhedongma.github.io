@@ -8,22 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student in Electrical&Computer Engineering at University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html), you can see his google scholar [here](https://scholar.google.com/citations?user=zvZUp70AAAAJ&hl=zh-CN). My research mainly focus on conducted/radiated EMI solution in power electronics systems, AC/DC power adapters and magnetic components. I obtained my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019. 
+I am currently a second-year PhD student in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html), you can see his google scholar [here](https://scholar.google.com/citations?user=zvZUp70AAAAJ&hl=zh-CN). My research mainly focuses on Conducted/Radiated EMI Solutions in Power Electronics Systems, AC/DC Power Adapters, and Magnetic Components. I received my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019. 
 
 In my daily life, I enjoy travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
 Email: zhedongma@gmail.com or Wechat:MZDZJU. Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) and [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=XkmTpQIAAAAJ) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
 
-
-Publications
+Volunteer Service
 ======
-* Z. Ma, J. Yao, Y. Li and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 4125-4130.
+Active Reviewer for many top IEEE Transactions: IEEE Transactions on Power Electronics, IEEE Transactions on Electromagnetic Compatibility, etc. 
 
-* J. Yao, M. El-Sharkh, Y. Li, Z. Ma, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 6957-6964.
+Active Reviewer for numerous IEEE international conferences
 
 Research Interests
 ======
 Power electronics, Magnetic components, Electromagnetic interference
+
+Publications
+======
+* Z. Ma, Y. Li, S. Wang, H. Sheng, S. Lakshmikanthan and D. Osterhout, "Investigation and Reduction of a Low-Frequency EMI Noise of AC/DC Power Adapters with Diode Bridge as Input Rectifier," 2020 IEEE 9th International Power Electronics and Motion Control Conference (IPEMC2020-ECCE Asia).
+
+* J. Yao, Y. Li, Z. Ma and S. Wang, "Advances of Modeling and Reduction of Conducted and Radiated EMI in Flyback Converters
+," 2020 IEEE Energy Conversion Congress and Exposition (ECCE).
+
+* Z. Ma, J. Yao, Y. Li and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 4125-4130.
+
+* J. Yao, M. El-Sharkh, Y. Li, Z. Ma, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 6957-6964.
 
 Honors/Awards
 ======
