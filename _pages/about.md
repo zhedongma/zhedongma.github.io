@@ -23,6 +23,7 @@ Active Reviewer for numerous IEEE international conferences paper.
 Research Interests
 ======
 Electromagnetic interference, Power electronics, Magnetic components (calculation of winding loss, measurement of core loss), etc.
+
 Publications
 ======
 * Z. Ma, Y. Li, S. Wang, H. Sheng, S. Lakshmikanthan and D. Osterhout, "Investigation and Reduction of a Low-Frequency EMI Noise of AC/DC Power Adapters with Diode Bridge as Input Rectifier," 2020 IEEE 9th International Power Electronics and Motion Control Conference (IPEMC2020-ECCE Asia).
