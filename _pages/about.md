@@ -22,7 +22,7 @@ IEEE Transactions on Power Electronics
 
 IEEE Transactions on Industrial Applications
 
-IEEE Transactions on Electromagnetic Compatibility, etc. 
+IEEE Transactions on Electromagnetic Compatibility
 
 Numerous IEEE international conferences paper.
 
