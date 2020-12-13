@@ -41,4 +41,3 @@ Publications
 Service and leadership
 ======
 * monitor in class 1503 at Zhejiang University
-* Deputy Secretary of the Youth League General branch, Zhejiang University
