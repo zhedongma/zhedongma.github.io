@@ -32,6 +32,13 @@ Electromagnetic interference, Power electronics, Magnetic components (calculatio
 
 Publications
 ======
+* Z. Ma, J. Yao,  S. Wang, H. Sheng, S. Lakshmikanthan and D. Osterhout, "Radiated EMI Reduction with Double Shielding Techniques in Active-clamp Flyback Converters
+," 2021 IEEE International Symposium on Electromagnetic Compatibility & Signal/Power Integrity (EMCSI).
+
+* Z. Ma, J. Yao, Y. Lai and S. Wang, "Investigation and Improvement of the Output Waveforms from the Power Amplifier for Accurate Core Loss Measurement," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC).
+
+* J. Yao, Y. Lai, Z. Ma and S. Wang, "Investigation of Noise Spectrum and Radiated EMI in High Switching Frequency Flyback Converters," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC).
+
 * Z. Ma, Y. Li, S. Wang, H. Sheng, S. Lakshmikanthan and D. Osterhout, "Investigation and Reduction of a Low-Frequency EMI Noise of AC/DC Power Adapters with Diode Bridge as Input Rectifier," 2020 IEEE 9th International Power Electronics and Motion Control Conference (IPEMC2020-ECCE Asia).
 
 * J. Yao, Y. Li, Z. Ma and S. Wang, "Advances of Modeling and Reduction of Conducted and Radiated EMI in Flyback Converters
