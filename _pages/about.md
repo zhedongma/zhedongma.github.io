@@ -36,9 +36,9 @@ Publications
 
 * J. Yao, Z. Ma, Y. Lai and S. Wang, "A Survey of Modeling and Reduction Techniques of Radiated EMI in Power Electronics," 2021 IEEE International Symposium on Electromagnetic Compatibility & Signal/Power Integrity (EMCSI).
 
-* Z. Ma, J. Yao, Y. Lai and S. Wang, "Advances in Modeling and Reduction of Conducted and Radiated EMI in Non-isolated Power Converters," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC).
+* Z. Ma, J. Yao, Y. Lai, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigate and Improve the Distorted Waveforms for Core Loss Measurement with Arbitrary Excitations," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC).
 
-* J. Yao, Y. Lai, Z. Ma and S. Wang, "Investigation of Noise Spectrum and Radiated EMI in High Switching Frequency Flyback Converters," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC).
+* J. Yao, Y. Lai, Z. Ma and S. Wang, "Advances in Modeling and Reduction of Conducted and Radiated EMI in Non-isolated Power Converters," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC).
 
 * J. Yao, Y. Lai, Z. Ma and S. Wang, "Investigation of Noise Spectrum and Radiated EMI in High Switching Frequency Flyback Converters," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC).
 
