@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html), you can see his google scholar [here](https://scholar.google.com/citations?user=zvZUp70AAAAJ&hl=zh-CN). My research focuses on Conducted/Radiated EMI Solutions in Power Electronics Systems, AC/DC Power Adapters, and Magnetic Components. I received my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019. 
+I am currently a third-year PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html), you can see his google scholar [here](https://scholar.google.com/citations?user=zvZUp70AAAAJ&hl=zh-CN). My research focuses on Conducted/Radiated EMI Solutions in Power Electronics Systems, AC/DC Power Adapters, and Magnetic Components. I received my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019. 
 
 In my daily life, I enjoy travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
