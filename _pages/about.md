@@ -12,7 +12,7 @@ I am currently a third-year PhD candidate in Electrical&Computer Engineering at 
 
 In my daily life, I enjoy travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
-Email: zhedongma@gmail.com or Wechat:MZDZJU. Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) and [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=XkmTpQIAAAAJ) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
+Email: zhedongma@gmail.com or Wechat:MZDZJU. Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) and [Google Scholar](https://scholar.google.com/citations?user=XkmTpQIAAAAJ&hl=en) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
 
 Volunteer Service
 ======
