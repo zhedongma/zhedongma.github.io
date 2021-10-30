@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-%%[Download my CV here](https://zhedongma.github.io/files/CV_Ma_Zhedong_3.pdf)
-
 Education
 ======
 * Ph.D. in Electrical&Computer Engineering, University of Florida, USA 2019-Present
