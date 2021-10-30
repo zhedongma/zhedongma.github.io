@@ -54,13 +54,18 @@ Publications
 
 Honors/Awards
 ======
+Dora G. Partheniades Fellowship Award, University of Florida. 2021
+
 Awards of Outstanding Graduates of Zhejiang University. 2019
 
 Awards of Excellent Student, Zhejiang University. 2018
 
+Scholarship for Academic Excellence of Zhejiang University. 2016-2018
+
 Top-ten University students in Lantian Campus, Zhejiang University. 2017
 
 Awards of Outstanding Student Leader, Zhejiang University. 2017
+
 
 
 
