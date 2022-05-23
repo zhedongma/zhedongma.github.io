@@ -18,7 +18,7 @@ author_profile: true
 ," IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2022.
 
 * Z. Ma, Y. Yang, J. Yao, S. Wang, H. Sheng, L. Jia, Z. Xu and S. Lakshmikanthan, "Radiated EMI Prediction in Power Converters with Power Cables Based on Cable Antenna Voltage Gain Extraction," 2022 IEEE Symposium on Electromagnetic Compatibility, Signal Integrity and Power Integrity (EMC, SI & PI).
-* 
+
 * Z. Ma, S. Wang, H. Sheng and S. Lakshmikanthan, " Modeling and Reduction of Radiated EMI due to Ground Impedance in a High-density Active-clamp Flyback Power Adapter," 2022 IEEE Applied Power Electronics Conference and Exposition (APEC), 2022.
 
 * Z. Ma, J. Yao, S. Wang, H. Sheng, S. Lakshmikanthan and D. Osterhout, "Radiated EMI Reduction with Double Shielding Techniques in Active-clamp Flyback Converters," 2021 IEEE International Joint EMC/SI/PI and EMC Europe Symposium, 2021, pp. 1064-1069, doi: 10.1109/EMC/SI/PI/EMCEurope52599.2021.9559249.
