@@ -18,13 +18,7 @@ Volunteer Service
 ======
 Reviewer for: 
 
-IEEE Transactions on Power Electronics
-
-IEEE Transactions on Industry Applications
-
-IEEE Transactions on Electromagnetic Compatibility
-
-Numerous IEEE international conferences paper.
+IEEE Transactions on Power Electronics, IEEE Transactions on Industry Applications, IEEE Transactions on Electromagnetic Compatibility, IEEE Open Journal of Power Electronics, and numerous IEEE international conferences, etc.
 
 Research Interests
 ======
@@ -33,7 +27,7 @@ Power electronics, EMI/EMC, Magnetic components, NFC antenna design, Wireless ch
 Publications
 ======
 * Z. Ma, Y. Li, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigation and Reduction of EMI Noise due to the Reverse Recovery Currents of 50/60Hz Diode Rectifiers
-," IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2022.
+," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2022.
 
 * Z. Ma, Y. Yang, J. Yao, S. Wang, H. Sheng, L. Jia, Z. Xu and S. Lakshmikanthan, "Radiated EMI Prediction in Power Converters with Power Cables Based on Cable Antenna Voltage Gain Extraction," 2022 IEEE Symposium on Electromagnetic Compatibility, Signal Integrity and Power Integrity (EMC, SI & PI).
 
