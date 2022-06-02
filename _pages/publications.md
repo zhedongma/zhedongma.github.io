@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 * Z. Ma, Y. Li, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigation and Reduction of EMI Noise due to the Reverse Recovery Currents of 50/60Hz Diode Rectifiers
-," IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2022.
+," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2022.
 
 * Z. Ma, Y. Yang, J. Yao, S. Wang, H. Sheng, L. Jia, Z. Xu and S. Lakshmikanthan, "Radiated EMI Prediction in Power Converters with Power Cables Based on Cable Antenna Voltage Gain Extraction," 2022 IEEE Symposium on Electromagnetic Compatibility, Signal Integrity and Power Integrity (EMC, SI & PI).
 
