@@ -16,9 +16,7 @@ Email: zhedongma@gmail.com or Wechat:MZDZJU. Find me on [Facebook](https://www.f
 
 Volunteer Service
 ======
-Reviewer for: 
-
-IEEE Transactions on Power Electronics, IEEE Transactions on Industry Applications, IEEE Transactions on Electromagnetic Compatibility, IEEE Open Journal of Power Electronics, and numerous IEEE international conferences, etc.
+Reviewer for: IEEE Transactions on Power Electronics, IEEE Transactions on Industry Applications, IEEE Transactions on Electromagnetic Compatibility, IEEE Open Journal of Power Electronics, and numerous IEEE international conferences, etc.
 
 Research Interests
 ======
