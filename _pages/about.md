@@ -20,7 +20,7 @@ Reviewer for: IEEE Transactions on Power Electronics, IEEE Transactions on Indus
 
 Research Interests
 ======
-Power electronics, EMI/EMC, Magnetic components, NFC antenna design, Wireless charging, etc.
+Power electronics, EMI/EMC, Wireless charging, Magnetic components, NFC antenna design, etc.
 
 Publications
 ======
