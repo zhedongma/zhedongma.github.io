@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html). My research focuses on Power Electronics, EMI/EMC, Wireless charging (Qi), and AC/DC power adapters. During my PhD study, I work closely with Honggang Sheng and Srikanth Lakshmikanthan at Google, Inc. I received my B.E. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019.
-
+I am currently a final-year PhD candidate sponsored by Google Inc. in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html). During my PhD study, I work closely with [Honggang Sheng](https://research.google/people/HonggangSheng/) and [Srikanth Lakshmikanthan](https://www.linkedin.com/in/srikanth-lakshmikanthan-7995478/) at Google, Inc. My research focuses on Power Electronics, EMI/EMC, Wireless charging (Qi), and AC/DC power adapters. I received my B.Eng. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, P.R.China in June 2019.
 In my daily life, I enjoy travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
 Email: zhedongma@gmail.com or Wechat:MZDZJU. Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) and [Google Scholar](https://scholar.google.com/citations?user=XkmTpQIAAAAJ&hl=en) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
