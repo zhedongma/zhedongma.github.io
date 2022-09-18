@@ -16,9 +16,11 @@ Email: zhedongma@gmail.com or Wechat:MZDZJU. Find me on [Facebook](https://www.f
 
 Volunteer Service
 ======
-Reviewer for: IEEE Transactions on Power Electronics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Industry Applications, IEEE Transactions on Electromagnetic Compatibility, IEEE Open Journal of Power Electronics, and numerous IEEE international conferences, etc.
+Reviewer (review >20 papers/year) for: IEEE Transactions on Power Electronics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Industry Applications, IEEE Transactions on Electromagnetic Compatibility, IEEE Open Journal of Power Electronics, and numerous IEEE international conferences, etc.
 
-Research Interests
+Volunteer for 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD.
+
+Research Areas
 ======
 Power electronics, EMI/EMC, Wireless charging, Magnetic components, NFC antenna design, etc.
 
@@ -52,6 +54,7 @@ Publications
 Honors/Awards
 ======
 Dora G. Partheniades Fellowship Award, University of Florida. 2021
+(For contributions to green/renewable energy research)
 
 Awards of Outstanding Graduates of Zhejiang University (top 10%). 2019
 
