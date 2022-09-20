@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html). During my PhD study, I worked closely with [Honggang Sheng](https://research.google/people/HonggangSheng/) and [Srikanth Lakshmikanthan](https://www.linkedin.com/in/srikanth-lakshmikanthan-7995478/) at Google Inc. on Google's consumer products (AC/DC power adapters, Wireless chargers, Pixel phones, etc.). I received my B.Eng. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, China in June 2019.
+I am currently a final-year PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html). During my PhD study, I worked closely with [Honggang Sheng](https://research.google/people/HonggangSheng/) and [Srikanth Lakshmikanthan](https://www.linkedin.com/in/srikanth-lakshmikanthan-7995478/) at Google Inc. on Google's consumer products (AC/DC power adapters, Wireless chargers, Pixel phones, Earbuds, etc.). I received my B.Eng. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, China in June 2019.
 
 In my daily life, I enjoy travelling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
