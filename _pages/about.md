@@ -54,7 +54,6 @@ Publications
 Honors/Awards
 ======
 Dora G. Partheniades Fellowship Award, University of Florida. 2021
-
 (For contributions to green/renewable energy research)
 
 Awards of Outstanding Graduates of Zhejiang University (top 10%). 2019
