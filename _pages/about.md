@@ -22,6 +22,8 @@ Volunteer for 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltim
 
 Lab Safety Manager at Power Electronics and Electrical Power Research Lab at the University of Florida since 2020.
 
+Mentoring two undergradue students at UFL on the senior project design about wireless charging coil design.
+
 Research Areas
 ======
 Power electronics, EMI/EMC, Wireless charging, Magnetic components, NFC antenna design, etc.
