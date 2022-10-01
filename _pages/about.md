@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a final-year PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html). During my PhD study, I worked closely with [Honggang Sheng](https://research.google/people/HonggangSheng/) and [Srikanth Lakshmikanthan](https://www.linkedin.com/in/srikanth-lakshmikanthan-7995478/) at Google Inc. on Google's consumer products (AC/DC power adapters, Wireless chargers, Pixel phones, Earbuds, etc.). I received my B.Eng. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, China in June 2019. During my undergraduate study, I was honored to be awarded "Top-ten Outstanding University Students at Zhejiang University (10/4000+)" in 2017 and "Outstanding Graduates of Zhejiang University" in 2019.
 
-In my daily life, I enjoy accompanying with my son: [Jiachen](https://jlian2.github.io/), traveling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
+In my daily life, I enjoy swimming, traveling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
 Email: zhedongma@gmail.com or Wechat:MZDZJU. Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) and [Google Scholar](https://scholar.google.com/citations?user=XkmTpQIAAAAJ&hl=en) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
 
