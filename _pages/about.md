@@ -30,6 +30,10 @@ Power electronics, EMI/EMC, Wireless charging, Magnetic components, NFC antenna 
 
 Publications
 ======
+* Z. Ma, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling, Analysis and Mitigation of Radiated EMI Due to PCB Ground Impedance in a 65W High-density Active-clamp Flyback Converter," in IEEE Transactions on Industrial Electronics, Early access, 2023.
+
+* Z. Ma and S. Wang, "Prediction and Measurement Techniques for Radiated EMI of Power Converters with Cables," in Chinese Journal of Electrical Engineering, December, 2022.
+
 * Z. Ma, Y. Li, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigation and Reduction of EMI Noise due to the Reverse Recovery Currents of 50/60Hz Diode Rectifiers
 ," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, July, 2022.
 
@@ -54,6 +58,11 @@ Publications
 * Z. Ma, J. Yao, Y. Li and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 4125-4130.
 
 * J. Yao, M. El-Sharkh, Y. Li, Z. Ma, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 6957-6964.
+
+
+Patents
+======
+* S. Wang, Z. Ma and Q. Huang, "Wireless Charging and Near-field Communication (NFC) Integration," US Patent (filed).
 
 Honors/Awards
 ======
