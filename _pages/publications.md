@@ -51,6 +51,6 @@ author_profile: true
 
 * J. Yao, M. El-Sharkh, Y. Li, __Z. Ma__, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 6957-6964.
 
-* Z. Ma, J. Yao, Y. Li and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 4125-4130.
+* __Z. Ma__, J. Yao, Y. Li and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 4125-4130.
 
-* J. Yao, M. El-Sharkh, Y. Li, Z. Ma, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 6957-6964.
+* J. Yao, M. El-Sharkh, Y. Li, __Z. Ma__, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 6957-6964.
