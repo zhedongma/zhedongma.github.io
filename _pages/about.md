@@ -42,7 +42,7 @@ Publications
 * __Z. Ma__, Q. Huang, Y. Yang and S. Wang, "A Wireless Charging and NFC Integration Technique Based on High-frequency Impedance Characterization of Wireless Charging Coils," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
 
 * Y. Lai, Y. Yang, __Z. Ma__, Q. Huang, S. Wang and Z. Luo, "Development of Simulation Prediction Techniques for Low Frequency Emissions," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
-* 
+
 * Q. Huang, Y. Yang, __Z. Ma__, Y. Lai and S. Wang, "Transformer Structure of Bifilar Primary Winding with Advanced Common Mode Noise Attenuation Performance for Isolated DC-DC Converters," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
 
 * __Z. Ma__, Y. Yang, J. Yao, S. Wang, H. Sheng, L. Jia, Z. Xu and S. Lakshmikanthan, "Radiated EMI Prediction in Power Converters with Power Cables Based on Cable Antenna Voltage Gain Extraction," in Proceedings of IEEE Symposium on Electromagnetic Compatibility, Signal Integrity and Power Integrity, 2022.
