@@ -12,7 +12,7 @@ I am currently a final-year PhD candidate in Electrical&Computer Engineering at 
 
 In my daily life, I enjoy swimming, traveling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
 
-Email: zhedongma@gmail.com. Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) and [Google Scholar](https://scholar.google.com/citations?user=XkmTpQIAAAAJ&hl=en) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
+Email: zhedongma@gmail.com. Find me on [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2), [Google Scholar](https://scholar.google.com/citations?user=XkmTpQIAAAAJ&hl=en), and [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
 
 Volunteer Service
 ======
@@ -30,39 +30,39 @@ Power electronics, EMI/EMC, Wireless charging, Magnetic components, NFC antenna 
 
 Publications
 ======
-* Z. Ma, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling, Analysis and Mitigation of Radiated EMI Due to PCB Ground Impedance in a 65W High-density Active-clamp Flyback Converter," in IEEE Transactions on Industrial Electronics, Early access, 2023.
+* __Z. Ma__, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling, Analysis and Mitigation of Radiated EMI Due to PCB Ground Impedance in a 65W High-density Active-clamp Flyback Converter," in IEEE Transactions on Industrial Electronics, Early access, 2023.
 
-* Z. Ma and S. Wang, "Prediction and Measurement Techniques for Radiated EMI of Power Converters with Cables," in Chinese Journal of Electrical Engineering, December, 2022.
+* __Z. Ma__ and S. Wang, "Prediction and Measurement Techniques for Radiated EMI of Power Converters with Cables," in Chinese Journal of Electrical Engineering, December, 2022.
 
-* Z. Ma, Y. Li, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigation and Reduction of EMI Noise due to the Reverse Recovery Currents of 50/60Hz Diode Rectifiers
+* __Z. Ma__, Y. Li, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigation and Reduction of EMI Noise due to the Reverse Recovery Currents of 50/60Hz Diode Rectifiers
 ," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, July, 2022.
 
-* Z. Ma, Y. Yang, J. Yao, S. Wang, H. Sheng, L. Jia, Z. Xu and S. Lakshmikanthan, "Radiated EMI Prediction in Power Converters with Power Cables Based on Cable Antenna Voltage Gain Extraction," in Proceedings of IEEE Symposium on Electromagnetic Compatibility, Signal Integrity and Power Integrity, 2022.
+* __Z. Ma__, Y. Yang, J. Yao, S. Wang, H. Sheng, L. Jia, Z. Xu and S. Lakshmikanthan, "Radiated EMI Prediction in Power Converters with Power Cables Based on Cable Antenna Voltage Gain Extraction," in Proceedings of IEEE Symposium on Electromagnetic Compatibility, Signal Integrity and Power Integrity, 2022.
 
-* Z. Ma, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling and Reduction of Radiated EMI due to Ground Impedance in a High-density Active-clamp Flyback Power Adapter," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2022.
+* __Z. Ma__, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling and Reduction of Radiated EMI due to Ground Impedance in a High-density Active-clamp Flyback Power Adapter," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2022.
 
-* Z. Ma, J. Yao, S. Wang, H. Sheng, S. Lakshmikanthan and D. Osterhout, "Radiated EMI Reduction with Double Shielding Techniques in Active-clamp Flyback Converters," in Proceedings of IEEE International Joint EMC/SI/PI and EMC Europe Symposium, 2021, pp. 1064-1069.
+* __Z. Ma__, J. Yao, S. Wang, H. Sheng, S. Lakshmikanthan and D. Osterhout, "Radiated EMI Reduction with Double Shielding Techniques in Active-clamp Flyback Converters," in Proceedings of IEEE International Joint EMC/SI/PI and EMC Europe Symposium, 2021, pp. 1064-1069.
 
-* J. Yao, Z. Ma, Y. Lai and S. Wang, "A Survey of Modeling and Reduction Techniques of Radiated EMI in Power Electronics," in Proceedings of IEEE International Joint EMC/SI/PI and EMC Europe Symposium, 2021.
+* J. Yao, __Z. Ma__, Y. Lai and S. Wang, "A Survey of Modeling and Reduction Techniques of Radiated EMI in Power Electronics," in Proceedings of IEEE International Joint EMC/SI/PI and EMC Europe Symposium, 2021.
 
-* Z. Ma, J. Yao, Y. Lai, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigate and Improve the Distorted Waveforms for Core Loss Measurement with Arbitrary Excitations," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2021, pp. 1736-1742.
+* __Z. Ma__, J. Yao, Y. Lai, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigate and Improve the Distorted Waveforms for Core Loss Measurement with Arbitrary Excitations," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2021, pp. 1736-1742.
 
-* J. Yao, Y. Lai, Z. Ma and S. Wang, "Advances in Modeling and Reduction of Conducted and Radiated EMI in Non-isolated Power Converters," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2021, pp. 2305-2312.
+* J. Yao, Y. Lai, __Z. Ma__ and S. Wang, "Advances in Modeling and Reduction of Conducted and Radiated EMI in Non-isolated Power Converters," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2021, pp. 2305-2312.
 
-* J. Yao, Y. Lai, Z. Ma and S. Wang, "Investigation of Noise Spectrum and Radiated EMI in High Switching Frequency Flyback Converters," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2021, pp. 2265-2270.
+* J. Yao, Y. Lai, __Z. Ma__ and S. Wang, "Investigation of Noise Spectrum and Radiated EMI in High Switching Frequency Flyback Converters," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2021, pp. 2265-2270.
 
-* Z. Ma, Y. Li, S. Wang, H. Sheng, S. Lakshmikanthan and D. Osterhout, "Investigation and Reduction of a Low-Frequency EMI Noise of AC/DC Power Adapters with Diode Bridge as Input Rectifier," in Proceedings of IEEE 9th International Power Electronics and Motion Control Conference, 2020, pp. 3085-3091.
+* __Z. Ma__, Y. Li, S. Wang, H. Sheng, S. Lakshmikanthan and D. Osterhout, "Investigation and Reduction of a Low-Frequency EMI Noise of AC/DC Power Adapters with Diode Bridge as Input Rectifier," in Proceedings of IEEE 9th International Power Electronics and Motion Control Conference, 2020, pp. 3085-3091.
 
-* J. Yao, Y. Li, Z. Ma and S. Wang, "Advances of Modeling and Reduction of Conducted and Radiated EMI in Flyback Converters," in Proceedings of  IEEE Energy Conversion Congress and Exposition, 2020, pp. 3362-3369.
+* J. Yao, Y. Li, __Z. Ma__ and S. Wang, "Advances of Modeling and Reduction of Conducted and Radiated EMI in Flyback Converters," in Proceedings of  IEEE Energy Conversion Congress and Exposition, 2020, pp. 3362-3369.
 
-* Z. Ma, J. Yao, Y. Li and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 4125-4130.
+* __Z. Ma__, J. Yao, Y. Li and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 4125-4130.
 
-* J. Yao, M. El-Sharkh, Y. Li, Z. Ma, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 6957-6964.
+* J. Yao, M. El-Sharkh, Y. Li, __Z. Ma__, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 6957-6964.
 
 
 Patents
 ======
-* S. Wang, Z. Ma and Q. Huang, "Wireless Charging and Near-field Communication (NFC) Integration," US Patent (filed).
+* S. Wang, __Z. Ma__ and Q. Huang, "Wireless Charging and Near-field Communication (NFC) Integration," US Patent (filed).
 
 Honors/Awards
 ======
