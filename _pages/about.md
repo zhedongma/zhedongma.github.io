@@ -35,9 +35,9 @@ Publications
 * __Z. Ma__ and S. Wang, "Prediction and Measurement Techniques for Radiated EMI of Power Converters with Cables," in Chinese Journal of Electrical Engineering, December, 2022.
 
 * __Z. Ma__, Y. Li, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigation and Reduction of EMI Noise due to the Reverse Recovery Currents of 50/60Hz Diode Rectifiers
-," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, July, 2022.
+," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, July, 2022.__(No.1 popular article in August 2022)__
 
-* __Z. Ma__, Y. Lai, Y. Yang, Q. Huang and S. Wang, "Review of Radiated EMI Modeling and Mitigation Techniques in Power Electronics Systems," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
+* __Z. Ma__, Y. Lai, Y. Yang, Q. Huang and S. Wang, "Review of Radiated EMI Modeling and Mitigation Techniques in Power Electronics Systems," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.__(Best Presentation Award)__
 
 * __Z. Ma__, Q. Huang, Y. Yang and S. Wang, "A Wireless Charging and NFC Integration Technique Based on High-frequency Impedance Characterization of Wireless Charging Coils," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
 
