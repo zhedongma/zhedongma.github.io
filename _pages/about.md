@@ -74,6 +74,8 @@ Patents
 
 Honors/Awards
 ======
+Best Presentation Award, IEEE Applied Power Electronics Conference (APEC), 2023
+
 Dora G. Partheniades Fellowship Award, University of Florida. 2021
 (For contributions to green/renewable energy research)
 
