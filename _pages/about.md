@@ -18,11 +18,13 @@ Volunteer Service
 ======
 Reviewer (review >20 papers/year) for: IEEE Transactions on Power Electronics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Industry Applications, IEEE Transactions on Electromagnetic Compatibility, IEEE Open Journal of Power Electronics, etc.
 
+PC Member for 2023 European Symposium on Reliability of Electron Devices, Failure Physics & Analysis (ESREF 2023).
+
 Volunteer for 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD.
 
 Lab Safety Manager at Power Electronics and Electrical Power Research Lab at the University of Florida since 2020.
 
-Mentoring two undergradue students at UFL on the senior project design about wireless charging coil design.
+Mentoring three undergradue students at UFL on the senior project design about wireless charging coil design and EMI filter design.
 
 Research Areas
 ======
@@ -35,7 +37,7 @@ Publications
 * __Z. Ma__ and S. Wang, "Prediction and Measurement Techniques for Radiated EMI of Power Converters with Cables," in Chinese Journal of Electrical Engineering, December, 2022.
 
 * __Z. Ma__, Y. Li, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigation and Reduction of EMI Noise due to the Reverse Recovery Currents of 50/60Hz Diode Rectifiers
-," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, July, 2022.__(No.1 popular article in August 2022)__
+," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, July, 2022.__(Paper advertised on the journal website)__
 
 * __Z. Ma__, Y. Lai, Y. Yang, Q. Huang and S. Wang, "Review of Radiated EMI Modeling and Mitigation Techniques in Power Electronics Systems," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.__(Best Presentation Award)__
 
