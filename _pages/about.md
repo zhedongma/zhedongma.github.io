@@ -34,12 +34,12 @@ Power electronics, EMI/EMC, Wireless charging, Magnetic components, NFC antenna 
 
 Publications
 ======
-* __Z. Ma__, S. Wang, H. Sheng, and S. Lakshmikanthan, "Modeling, Analysis and Mitigation of Radiated EMI Due to PCB Ground Impedance in a 65W High-density Active-clamp Flyback Converter," in IEEE Transactions on Industrial Electronics, Early access, 2023.
+* __Z. Ma__, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling, Analysis and Mitigation of Radiated EMI Due to PCB Ground Impedance in a 65 W High-Density Active-Clamp Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 70, no. 12, pp. 12267-12277, Dec. 2023.
 
 * __Z. Ma__ and S. Wang, "Prediction and Measurement Techniques for Radiated EMI of Power Converters with Cables," in Chinese Journal of Electrical Engineering, December 2022.
 
 * __Z. Ma__, Y. Li, S. Wang, H. Sheng, and S. Lakshmikanthan, "Investigation and Reduction of EMI Noise due to the Reverse Recovery Currents of 50/60Hz Diode Rectifiers
-," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, July 2022.__(Paper advertised on the journal website)__
+," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, July 2022.__(Paper advertised on the journal website & Prompted in IEEE Industrial Electronics Newsletter as a Feature Article)__
 
 * __Z. Ma__, Y. Lai, Y. Yang, Q. Huang, and S. Wang, "Review of Radiated EMI Modeling and Mitigation Techniques in Power Electronics Systems," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.__(Best Presentation Award)__
 
