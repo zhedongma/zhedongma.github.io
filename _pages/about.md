@@ -34,6 +34,8 @@ Power electronics, EMI/EMC, Wireless charging, Magnetic components, NFC antenna 
 
 Publications
 ======
+* __Z. Ma__, S. Wang, Q. Huang and Y. Yang, "A Review of Radiated EMI Research in Power Electronics Systems," in IEEE Journal of Emerging and Selected Topics in Power Electronics, Early Access, 2024.
+
 * __Z. Ma__, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling, Analysis and Mitigation of Radiated EMI Due to PCB Ground Impedance in a 65 W High-Density Active-Clamp Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 70, no. 12, pp. 12267-12277, Dec. 2023.
 
 * __Z. Ma__ and S. Wang, "Prediction and Measurement Techniques for Radiated EMI of Power Converters with Cables," in Chinese Journal of Electrical Engineering, December 2022.
@@ -43,6 +45,18 @@ Publications
 
 * __Z. Ma__, Y. Lai, Y. Yang, Q. Huang, and S. Wang, "Review of Radiated EMI Modeling and Mitigation Techniques in Power Electronics Systems," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.__(Best Presentation Award)__
 
+* __Z. Ma__, Y. Lai, Q. Huang, Y. Yang, and S. Wang, "Investigation and Mitigation of Radiated EMI due to Near-field Coupling in a High-density Active-clamp Flyback Power Adapter," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
+
+* H. Wu, Y. Lai,__Z. Ma__, Y. Yang, Q. Huang, and S. Wang, "Reduction of Copper Loss of Planar Transformers Based on Optimized Width Winding," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
+
+* Q. Huang, Y. Li,__Z. Ma__, Y. Yang, Y. Lai, and S. Wang, "RLC Balance Technique of Transformer to Reduce CM EMI for Isolated DC-DC Converters," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
+
+* Y. Lai, S. Wang, Q. Huang, Y. Yang, __Z. Ma__, and B. Zhang, "Investigation of Low-Frequency Radiated EMI of the Three Phase Electric Motor System," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
+
+* Y. Yang, Q. Huang, __Z. Ma__, S. Wang, Z. Xu, L. Jia, and S. Lakshmikanthan, "Improve the Noise Immunity of In-band Communications in Qi Wireless Charging Systems with A Synchronous Rectifier Switching Scheme to Double the Depth of Shift-Keying Modulation," IECON 2023 - 49th Annual Conference of the IEEE Industrial Electronics Society, Singapore, 2023.
+
+* Y. Yang, Q. Huang, __Z. Ma__, S. Wang, Z. Xu, L. Jia, and S. Lakshmikanthan, "A Phase-shift Switching Scheme of Charger Inverter to Improve In-band Communication Reliability in Qi Wireless Charging System," IEEE Wireless Power Technology Conference and Expo 2023.
+  
 * __Z. Ma__, Q. Huang, Y. Yang, and S. Wang, "A Wireless Charging and NFC Integration Technique Based on High-frequency Impedance Characterization of Wireless Charging Coils," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
 
 * Y. Lai, Y. Yang, __Z. Ma__, Q. Huang, S. Wang, and Z. Luo, "Development of Simulation Prediction Techniques for Low-Frequency Emissions," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
