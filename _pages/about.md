@@ -47,9 +47,9 @@ Publications
 
 * __Z. Ma__, Y. Lai, Q. Huang, Y. Yang, and S. Wang, "Investigation and Mitigation of Radiated EMI due to Near-field Coupling in a High-density Active-clamp Flyback Power Adapter," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
 
-* H. Wu, Y. Lai,__Z. Ma__, Y. Yang, Q. Huang, and S. Wang, "Reduction of Copper Loss of Planar Transformers Based on Optimized Width Winding," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
+* H. Wu, Y. Lai, __Z. Ma__, Y. Yang, Q. Huang, and S. Wang, "Reduction of Copper Loss of Planar Transformers Based on Optimized Width Winding," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
 
-* Q. Huang, Y. Li,__Z. Ma__, Y. Yang, Y. Lai, and S. Wang, "RLC Balance Technique of Transformer to Reduce CM EMI for Isolated DC-DC Converters," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
+* Q. Huang, Y. Li, __Z. Ma__, Y. Yang, Y. Lai, and S. Wang, "RLC Balance Technique of Transformer to Reduce CM EMI for Isolated DC-DC Converters," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
 
 * Y. Lai, S. Wang, Q. Huang, Y. Yang, __Z. Ma__, and B. Zhang, "Investigation of Low-Frequency Radiated EMI of the Three Phase Electric Motor System," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
 
