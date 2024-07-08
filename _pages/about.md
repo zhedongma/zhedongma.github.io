@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an iPhone/iPad System Power Integrity & EMI Engineer at Apple Inc., Austin, TX, USA. I received my Ph.D. degree in Power Electronics & EMI from the University of Florida in 2023 supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html). During my Ph.D. study, I worked closely with [Honggang Sheng](https://research.google/people/HonggangSheng/) and [Srikanth Lakshmikanthan](https://www.linkedin.com/in/srikanth-lakshmikanthan-7995478/) at Google Inc. on Google's consumer products (AC/DC power adapters, Wireless chargers, Pixel phones, Earbuds, etc.). I was the recipient of the __Best Presentation Award__ from the 2023 IEEE Applied Power Electronics Conference and Exposition (APEC). I have over 30 publications in IEEE leading Transactions/Journal/Conference in my 4 years of Ph.D. study. My research in power electronics EMI is widely cited and prompted in the IEEE Industrial Electronics Society [Newsletter](https://iten.ieee-ies.org/journal-featured-article/2023/investigation-and-reduction-of-emi-noise-due-to-the-reverse-recovery-currents-of-50-60-hz-diode-rectifiers/) (>10k members all over the world).
+I am currently an iPhone/iPad System Power Integrity & EMI Engineer at Apple Inc., Austin, TX, USA. I received my Ph.D. degree in Electrical and Computer Engineering from the University of Florida in 2023 supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html). During my Ph.D. study, I worked closely with [Honggang Sheng](https://research.google/people/HonggangSheng/) and [Srikanth Lakshmikanthan](https://www.linkedin.com/in/srikanth-lakshmikanthan-7995478/) at Google Inc. on Google's consumer products (AC/DC power adapters, Wireless chargers, Pixel phones, Earbuds, etc.). I was the recipient of the __Best Presentation Award__ from the 2023 IEEE Applied Power Electronics Conference and Exposition (APEC). I have over 30 publications in IEEE leading Transactions/Journal/Conference in my 4 years of Ph.D. study. My research in power electronics EMI is widely cited and prompted in the IEEE Industrial Electronics Society [Newsletter](https://iten.ieee-ies.org/journal-featured-article/2023/investigation-and-reduction-of-emi-noise-due-to-the-reverse-recovery-currents-of-50-60-hz-diode-rectifiers/) (>10k members all over the world).
 
 I received my B.Eng. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, China in June 2019. During my undergraduate study, I was honored to be awarded "Top-ten Outstanding University Students at Zhejiang University (Lantian Academy) (10/4000+)" in 2017 and "Outstanding Graduates of Zhejiang University" in 2019.
 
@@ -34,7 +34,9 @@ Power electronics, EMI/EMC, Wireless charging, Magnetic components, NFC antenna 
 
 Publications
 ======
-* __Z. Ma__, S. Wang, Q. Huang and Y. Yang, "A Review of Radiated EMI Research in Power Electronics Systems," in IEEE Journal of Emerging and Selected Topics in Power Electronics, Early Access, 2024.
+* __Z. Ma__, S. Wang, Q. Huang and Y. Yang, "A Review of Radiated EMI Research in Power Electronics Systems," in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 12, no. 1, pp. 675-694, Feb. 2024.
+
+* Q. Huang *, __Z. Ma__*, S. Wang and Y. Yang, "Integration of Near Field Communication (NFC) Antenna and Wireless Charging Coil for Portable Electronic Products," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2024.3385028. (__Co-first author__)
 
 * __Z. Ma__, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling, Analysis and Mitigation of Radiated EMI Due to PCB Ground Impedance in a 65 W High-Density Active-Clamp Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 70, no. 12, pp. 12267-12277, Dec. 2023.
 
@@ -44,6 +46,8 @@ Publications
 ," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, July 2022.__(Paper advertised on the journal website & Prompted in IEEE Industrial Electronics Newsletter as a Feature Article)__
 
 * __Z. Ma__, Y. Lai, Y. Yang, Q. Huang, and S. Wang, "Review of Radiated EMI Modeling and Mitigation Techniques in Power Electronics Systems," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.__(Best Presentation Award)__
+
+* Q. Huang, Y. Yang, Y. Lai, __Z. Ma__ and S. Wang, "A Survey of CM EMI Modeling and Reduction Technique of Transformer for Isolated Converters," 2024 IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, USA, 2024, pp. 1484-1490.
 
 * __Z. Ma__, Y. Lai, Q. Huang, Y. Yang, and S. Wang, "Investigation and Mitigation of Radiated EMI due to Near-field Coupling in a High-density Active-clamp Flyback Power Adapter," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
 
@@ -88,7 +92,7 @@ Publications
 
 Patents
 ======
-* S. Wang, __Z. Ma__ and Q. Huang, "Wireless Charging and Near-field Communication (NFC) Integration," US Patent (filed).
+* S. Wang, __Z. Ma__ and Q. Huang, "Wireless Charging and Near-field Communication (NFC) Integration," US Patent Pending.
 
 Honors/Awards
 ======
