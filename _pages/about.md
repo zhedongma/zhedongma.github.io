@@ -36,7 +36,7 @@ Publications
 ======
 * __Z. Ma__, S. Wang, Q. Huang and Y. Yang, "A Review of Radiated EMI Research in Power Electronics Systems," in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 12, no. 1, pp. 675-694, Feb. 2024.
 
-* Q. Huang *, __Z. Ma__*, S. Wang and Y. Yang, "Integration of Near Field Communication (NFC) Antenna and Wireless Charging Coil for Portable Electronic Products," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2024.3385028. (__Co-first author__)
+* __Q. Huang__*, __Z. Ma__*, S. Wang and Y. Yang, "Integration of Near Field Communication (NFC) Antenna and Wireless Charging Coil for Portable Electronic Products," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2024.3385028. (__Co-first author__)
 
 * __Z. Ma__, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling, Analysis and Mitigation of Radiated EMI Due to PCB Ground Impedance in a 65 W High-Density Active-Clamp Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 70, no. 12, pp. 12267-12277, Dec. 2023.
 
