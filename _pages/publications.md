@@ -14,7 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-* __Z. Ma__, S. Wang, Q. Huang and Y. Yang, "A Review of Radiated EMI Research in Power Electronics Systems," in IEEE Journal of Emerging and Selected Topics in Power Electronics, Early Access, 2024.
+* __Z. Ma__, S. Wang, Q. Huang and Y. Yang, "A Review of Radiated EMI Research in Power Electronics Systems," in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 12, no. 1, pp. 675-694, Feb. 2024.
+
+* __Q. Huang__*, __Z. Ma__*, S. Wang and Y. Yang, "Integration of Near Field Communication (NFC) Antenna and Wireless Charging Coil for Portable Electronic Products," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2024.3385028. (__Co-first author__)
 
 * __Z. Ma__, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling, Analysis and Mitigation of Radiated EMI Due to PCB Ground Impedance in a 65 W High-Density Active-Clamp Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 70, no. 12, pp. 12267-12277, Dec. 2023.
 
@@ -24,6 +26,8 @@ author_profile: true
 ," in IEEE Journal of Emerging and Selected Topics in Industrial Electronics, July 2022.__(Paper advertised on the journal website & Prompted in IEEE Industrial Electronics Newsletter as a Feature Article)__
 
 * __Z. Ma__, Y. Lai, Y. Yang, Q. Huang, and S. Wang, "Review of Radiated EMI Modeling and Mitigation Techniques in Power Electronics Systems," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.__(Best Presentation Award)__
+
+* Q. Huang, Y. Yang, Y. Lai, __Z. Ma__ and S. Wang, "A Survey of CM EMI Modeling and Reduction Technique of Transformer for Isolated Converters," 2024 IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, USA, 2024, pp. 1484-1490.
 
 * __Z. Ma__, Y. Lai, Q. Huang, Y. Yang, and S. Wang, "Investigation and Mitigation of Radiated EMI due to Near-field Coupling in a High-density Active-clamp Flyback Power Adapter," in Proceedings of IEEE Energy Conversion Congress and Exposition (ECCE), 2023.
 
@@ -36,21 +40,22 @@ author_profile: true
 * Y. Yang, Q. Huang, __Z. Ma__, S. Wang, Z. Xu, L. Jia, and S. Lakshmikanthan, "Improve the Noise Immunity of In-band Communications in Qi Wireless Charging Systems with A Synchronous Rectifier Switching Scheme to Double the Depth of Shift-Keying Modulation," IECON 2023 - 49th Annual Conference of the IEEE Industrial Electronics Society, Singapore, 2023.
 
 * Y. Yang, Q. Huang, __Z. Ma__, S. Wang, Z. Xu, L. Jia, and S. Lakshmikanthan, "A Phase-shift Switching Scheme of Charger Inverter to Improve In-band Communication Reliability in Qi Wireless Charging System," IEEE Wireless Power Technology Conference and Expo 2023.
-* __Z. Ma__, Q. Huang, Y. Yang and S. Wang, "A Wireless Charging and NFC Integration Technique Based on High-frequency Impedance Characterization of Wireless Charging Coils," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
+  
+* __Z. Ma__, Q. Huang, Y. Yang, and S. Wang, "A Wireless Charging and NFC Integration Technique Based on High-frequency Impedance Characterization of Wireless Charging Coils," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
 
-* Y. Lai, Y. Yang, __Z. Ma__, Q. Huang, S. Wang and Z. Luo, "Development of Simulation Prediction Techniques for Low Frequency Emissions," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
+* Y. Lai, Y. Yang, __Z. Ma__, Q. Huang, S. Wang, and Z. Luo, "Development of Simulation Prediction Techniques for Low-Frequency Emissions," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
 
 * Q. Huang, Y. Yang, __Z. Ma__, Y. Lai and S. Wang, "Transformer Structure of Bifilar Primary Winding with Advanced Common Mode Noise Attenuation Performance for Isolated DC-DC Converters," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2023.
 
-* __Z. Ma__, Y. Yang, J. Yao, S. Wang, H. Sheng, L. Jia, Z. Xu and S. Lakshmikanthan, "Radiated EMI Prediction in Power Converters with Power Cables Based on Cable Antenna Voltage Gain Extraction," in Proceedings of IEEE Symposium on Electromagnetic Compatibility, Signal Integrity and Power Integrity, 2022.
+* __Z. Ma__, Y. Yang, J. Yao, S. Wang, H. Sheng, L. Jia, Z. Xu, and S. Lakshmikanthan, "Radiated EMI Prediction in Power Converters with Power Cables Based on Cable Antenna Voltage Gain Extraction," in Proceedings of IEEE Symposium on Electromagnetic Compatibility, Signal Integrity and Power Integrity, 2022.
 
-* __Z. Ma__, S. Wang, H. Sheng and S. Lakshmikanthan, "Modeling and Reduction of Radiated EMI due to Ground Impedance in a High-density Active-clamp Flyback Power Adapter," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2022.
+* __Z. Ma__, S. Wang, H. Sheng, and S. Lakshmikanthan, "Modeling and Reduction of Radiated EMI due to Ground Impedance in a High-density Active-clamp Flyback Power Adapter," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2022.
 
 * __Z. Ma__, J. Yao, S. Wang, H. Sheng, S. Lakshmikanthan and D. Osterhout, "Radiated EMI Reduction with Double Shielding Techniques in Active-clamp Flyback Converters," in Proceedings of IEEE International Joint EMC/SI/PI and EMC Europe Symposium, 2021, pp. 1064-1069.
 
 * J. Yao, __Z. Ma__, Y. Lai and S. Wang, "A Survey of Modeling and Reduction Techniques of Radiated EMI in Power Electronics," in Proceedings of IEEE International Joint EMC/SI/PI and EMC Europe Symposium, 2021.
 
-* __Z. Ma__, J. Yao, Y. Lai, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigate and Improve the Distorted Waveforms for Core Loss Measurement with Arbitrary Excitations," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2021, pp. 1736-1742.
+* __Z. Ma__, J. Yao, Y. Lai, S. Wang, H. Sheng, and S. Lakshmikanthan, "Investigate and Improve the Distorted Waveforms for Core Loss Measurement with Arbitrary Excitations," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2021, pp. 1736-1742.
 
 * J. Yao, Y. Lai, __Z. Ma__ and S. Wang, "Advances in Modeling and Reduction of Conducted and Radiated EMI in Non-isolated Power Converters," in Proceedings of IEEE Applied Power Electronics Conference and Exposition, 2021, pp. 2305-2312.
 
@@ -60,10 +65,6 @@ author_profile: true
 
 * J. Yao, Y. Li, __Z. Ma__ and S. Wang, "Advances of Modeling and Reduction of Conducted and Radiated EMI in Flyback Converters," in Proceedings of  IEEE Energy Conversion Congress and Exposition, 2020, pp. 3362-3369.
 
-* __Z. Ma__, J. Yao, Y. Li and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 4125-4130.
-
-* J. Yao, M. El-Sharkh, Y. Li, __Z. Ma__, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 6957-6964.
-
-* __Z. Ma__, J. Yao, Y. Li and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 4125-4130.
+* __Z. Ma__, J. Yao, Y. Li, and S. Wang, "Comparative Analysis of Magnetic Core Loss Measurement Methods with Arbitrary Excitations," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 4125-4130.
 
 * J. Yao, M. El-Sharkh, Y. Li, __Z. Ma__, S. Wang and Z. Luo, "Investigation of Radiated EMI in Non-isolated Power Converters with Power Cables in Automotive Applications," in Proceedings of IEEE Energy Conversion Congress and Exposition, Baltimore, MD, USA, 2019, pp. 6957-6964.
